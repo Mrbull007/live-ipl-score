@@ -13,9 +13,4 @@ A lightweight Python script that fetches and displays **live IPL scores** in you
 - `requests`
 - `beautifulsoup4`
 
-## Installation
 
-```bash
-git clone https://github.com/YOUR_USERNAME/live-ipl-score.git
-cd live-ipl-score
-pip install -r requirements.txt
